@@ -1,0 +1,10 @@
+.heading {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: white;
+    height: 10vh;
+    padding: 20px;
+}
